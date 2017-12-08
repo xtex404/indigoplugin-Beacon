@@ -48,3 +48,6 @@ make sure the change doesn’t do anything malicious.
 
 If you are interested in taking over maintenance, please let us know and we’ll
 gladly give you direct management permissions.
+
+Indigo Domotics doesn't guarantee that this plugin works. We are only hosting
+the project here in our open source repository for Indigo plugins.
