@@ -51,3 +51,8 @@ gladly give you direct management permissions.
 
 Indigo Domotics doesn't guarantee that this plugin works. We are only hosting
 the project here in our open source repository for Indigo plugins.
+
+### xtex404 note 2018/01/31
+
+Working on updating and adding functionality
+
